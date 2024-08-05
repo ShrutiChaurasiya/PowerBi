@@ -14,6 +14,8 @@ Basic knowledge of Power BI: Understanding how to import data, create visualizat
 Access to the Blinkit Sales Dataset: Ensure you have the dataset available for analysis.
 
 # Blinkit Sales and Data Analysis Dashboard
+  # Overview
+This Power BI dashboard provides a comprehensive analysis of Blinkit sales data, showcasing sales performance and profits across different regions. The dashboard leverages maps for geospatial analysis and includes background images for KPIs and icons to enhance visualization.
   # Features 
     1. Sales Analysis by Region: Visual representation of sales distribution across various regions.
     2. Profit Analysis: Insights into profits generated from different regions.
