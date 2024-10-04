@@ -40,6 +40,19 @@ Access to the Blinkit Sales Dataset: Ensure you have the dataset available for a
 
 # Screenshots
 
+# BlinkIt
+![Screenshot 2024-07-28 010159](https://github.com/user-attachments/assets/c1c905da-3303-437a-abaa-6d2d09b551f2)
+
+# HR Analysis
+![Screenshot 2024-07-28 010634](https://github.com/user-attachments/assets/39d5735b-a02f-4d4c-844f-698911c3f943)
+
+# Sales Data Analysis
+![Screenshot 2024-07-28 010254](https://github.com/user-attachments/assets/0577b251-61bf-4b3c-a544-c65dab845e16)
+
+# Swiggy Data Analysis
+![Screenshot 2024-07-28 005707](https://github.com/user-attachments/assets/eb82f0ab-7702-46f0-8110-ad99f70ff085)
+
+
 
 
 
